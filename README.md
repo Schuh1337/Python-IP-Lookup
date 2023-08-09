@@ -1,4 +1,4 @@
-# Simple-IP-Lookup-
+# Simple-IP-Lookup
 
 Required Modules:
 
