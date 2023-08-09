@@ -2,6 +2,6 @@
 
 Required modules:
 
-requests
+requests \n
 colorama
 ipaddress
