@@ -1,6 +1,6 @@
 # Simple-IP-Lookup-
 
-Required modules:
+Required Modules:
 
 requests,
 colorama,
