@@ -1,7 +1,5 @@
-import requests
+import requests, re, ipaddress
 from colorama import init, Fore
-import re
-import ipaddress
 
 init(autoreset=True)
 
